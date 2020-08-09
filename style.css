@@ -392,7 +392,7 @@ p.author a:hover {
     line-height: 1.125rem;
     font-weight: 500;
     font-style: normal;
-    font-family: nyt-franklin, arial, helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .graphic>p:before {
@@ -511,7 +511,7 @@ p.author a:hover {
 
 .top-bar a {
     color: rgb(86, 123, 149);
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 11px;
     font-style: normal;
     font-weight: 400;
@@ -545,7 +545,7 @@ p.author a:hover {
 }
 
 .more-links li {
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     width: 150px;
     font-size: 13px;
     font-weight: 500;
@@ -567,7 +567,7 @@ p.author a:hover {
     grid-template-columns: 16px 1fr;
     grid-gap: 5px;
     align-items: center;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     width: 150px;
     font-size: 16px;
     font-weight: 700;
@@ -598,7 +598,7 @@ p.author a:hover {
 
 .more-links ul:nth-of-type(6) li {
     color: black;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 11px;
     font-weight: 500;
     height: 23px;
@@ -619,7 +619,7 @@ p.author a:hover {
 /* Bottom grids */
 .after-article h3 {
     padding: 15px 0;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
 }
 
@@ -634,7 +634,7 @@ p.author a:hover {
 
 .after-article .grid-item h3,
 .most-popular li {
-    font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
+    font-family: var(--fonts);
     color: rgb(18, 18, 18);
     padding: 0;
     margin-bottom: 3px;
@@ -652,7 +652,7 @@ p.author a:hover {
 
 .after-article time {
     color: rgb(153, 153, 153);
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
     font-weight: 500;
     letter-spacing: 0.3px;
